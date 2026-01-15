@@ -1,4 +1,13 @@
-Hi there, I am, Steven Manapsal!
+# Hi, I'm Steven 👋
 
-I am a Computer Science student who is determined to learn, grow and refine my skills!
-FUTURE SOFTWARE ENGINEER!! :) 
+🎓 Student Developer  
+💻 Currently Learning Java and Python!   
+📍 Philippines  
+
+## Skills
+- Has Java knowledge
+
+## Goals
+- Build web and application projects
+- Learn Git and GitHub
+- Become a Software Engineer!
