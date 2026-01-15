@@ -2,7 +2,7 @@
 
 🎓 Student Developer  
 💻 Currently Learning Java and Python!   
-📍 Philippines  
+📍 Philippines 
 
 ## Skills
 - Has Java knowledge
