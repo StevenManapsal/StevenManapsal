@@ -8,6 +8,6 @@
 - Has Java knowledge
 
 ## Goals
-- Build web and application projects
 - Learn Git and GitHub
+- Build web and application projects
 - Become a Software Engineer!
